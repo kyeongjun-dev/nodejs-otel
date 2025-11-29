@@ -48,7 +48,7 @@ npx create-next-app@latest my-app-docker --yes
 cd my-app-docker
 ```
 
-패키지 설치
+패키지 설치 (설치한 패키지 기록용으로, 실행하지 않고, 다음 단계인 docker-compose만 진행해도 됨)
 
 ```
 npm install @opentelemetry/sdk-node \
